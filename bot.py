@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 __author__      = "Konstantin (k0nze) Lübeck"
-__copyright__   = "Copyright 2020, Discord Bot Template"
+__copyright__   = "Copyright 2021, Discord Bot Template"
 __credits__     = ["Alex Ronquillo: https://realpython.com/how-to-make-a-discord-bot-python/"]
 
 __license__     = "BSD 3-Clause License"
