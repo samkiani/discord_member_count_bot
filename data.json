@@ -1,0 +1,14 @@
+{
+    "gifs": [
+        {"id": "eww", "link": "https://media.giphy.com/media/biWwUDZ7qyPBHcYiqr/giphy.gif"},
+        {"id": "banana", "link": "https://media.giphy.com/media/lFGREiEY00em8xpHla/giphy.gif"},
+        {"id": "yummi", "link": "https://media.giphy.com/media/kNlkkcN9lu322qjBCV/giphy.gif"},
+        {"id": "drdisrespect", "link": "https://media.giphy.com/media/QIsxYS9NdbMmKeVYRn/source.gif"},
+        {"id": "christmasshot", "link": "https://media.giphy.com/media/i0qETBSL2X7qOovWnu/giphy.gif"},
+        {"id": "pushups", "link": "https://media.giphy.com/media/YFzmnawBBfebMJj2Va/giphy.gif"},
+        {"id": "hello", "link": "https://media.giphy.com/media/Wuq5KHCqfBQUlntEcS/giphy.gif"},
+        {"id": "leekspin", "link": "https://media.giphy.com/media/PjBNP8tlXjrpBECCjr/source.gif"},
+        {"id": "sigh", "link": "https://media.giphy.com/media/9qr1OAaFMMkqk2njsS/source.mp4"},
+        {"id": "excitement", "link": "https://media.giphy.com/media/2o7ZhuePZsGbEwjWde/source.gif"}
+    ]
+}
