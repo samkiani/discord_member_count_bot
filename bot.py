@@ -44,7 +44,7 @@ bot = commands.Bot(command_prefix='!')
 async def on_ready():
     """ Runs once the bot has established a connection with Discord """
 
-    print(f'{bot.user.name} version has connected to Discord')
+    print(f'{bot.user.name} has connected to Discord')
 
     # check if bot has connected to guilds
     if len(bot.guilds) > 0:
