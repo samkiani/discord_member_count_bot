@@ -28,7 +28,7 @@ cp .env.sample .env
 
 Open `.env` and insert the following fields:
 
-| Field           | Explaination                                                          |
+| Field           | Explanation                                                           |
 |-----------------|-----------------------------------------------------------------------|
 | `DISCORD_TOKEN` | Discord bot token                                                     |
 
