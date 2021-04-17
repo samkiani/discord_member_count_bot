@@ -1,0 +1,9 @@
+{
+    "guilds": [
+        {
+            "id": "EnterGuildID", 
+            "channel_id": EnterChannelID, 
+            "suffix": "Members"
+        }
+    ]
+}
