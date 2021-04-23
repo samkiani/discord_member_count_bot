@@ -2,6 +2,13 @@
 
 Simple Discord bot which displays the members in a Discord server in the channels list. 
 
+## Setup Video
+<a href="https://youtu.be/mc4IDHnDfGk">
+    <img src="./images/youtube_thumbnail.png" width="500"/>
+</a>
+
+[Youtube Video Link](https://youtu.be/mc4IDHnDfGk)
+
 ## Setup and Run
 
 Requires Python `3.6.8+`.
